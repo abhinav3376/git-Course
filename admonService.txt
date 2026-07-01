@@ -3,6 +3,7 @@ change the roles
 
 manage the database
 closing the connection
+This file is closed by System.in
 
 change 1
 change 2 in my database
